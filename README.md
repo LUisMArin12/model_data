@@ -15,8 +15,6 @@ Modelo de Machine Learning
 12.	Se calcula la importancia de las características del mejor modelo.
 13.	Se utiliza el mejor modelo para predecir el saldo final para el caso específico proporcionado (saldo_final_predicho) y se imprime el resultado.
 
-Diagrama de Funcionamiento
-
 
 
 
